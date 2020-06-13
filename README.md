@@ -1,13 +1,13 @@
 # node-basis
 Simple wrapper around a [basis-universal](https://github.com/BinomialLLC/basis_universal) executable.   
 
-Basis Universal is a "supercompressed" GPU texture and texture video compression system that outputs a highly compressed intermediate file format (.basis) that can be quickly transcoded to a wide variety of GPU texture compression formats.
+Basis is a cool compressed texture file format.
 
 [Three.js doc page on basis texture loader](https://threejs.org/docs/#examples/en/loaders/BasisTextureLoader)
 
 ## install
 
-`npm install node-basis -g`
+`npm install node-basis-wrapper -g`
 
 ## usage
 
