@@ -4,7 +4,7 @@
   "description": "simple node wrapper around a compiled basis-universal executable",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified yet\""
   },
   "bin": {
     "node-basis": "./index.js"
