@@ -11,9 +11,9 @@ Basis Universal is a "supercompressed" GPU texture and texture video compression
 
 ## usage
 
-`basis -file myFile.png`
+`node-basis -file myFile.png`
 
 ## more options
 
 All arguments are forwarded to the basis-universal API.   
-Type `basis` without argument to get documentation.
+Type `node-basis` without argument to get documentation.
