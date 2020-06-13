@@ -11,7 +11,7 @@ Basis is a cool compressed texture file format.
 
 ## usage
 
-`node-basis -file myFile.png`
+`node-basis -file path/to/myFile.png`
 
 ## more options
 
