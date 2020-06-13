@@ -1,0 +1,22 @@
+{
+  "name": "node-basis",
+  "version": "0.0.0",
+  "description": "simple node wrapper around a compiled basis-universal executable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "basis": "./index.js"
+  },
+  "keywords": [
+    "basis",
+    "file",
+    "format"
+  ],
+  "author": "felix mariotto",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
