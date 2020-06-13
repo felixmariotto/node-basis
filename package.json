@@ -1,6 +1,6 @@
 {
   "name": "node-basis-wrapper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple node wrapper around a compiled basis-universal executable",
   "main": "index.js",
   "scripts": {
