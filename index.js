@@ -8,8 +8,6 @@ let args = process.argv;
 args.splice( 0, 2 );
 
 const exePath = path.join(__dirname, 'basisu.exe');
-console.log( exePath )
-
 
 console.log( chalk.green( 'basisu executing with arguments ' + args.join(' ') ) )
 
